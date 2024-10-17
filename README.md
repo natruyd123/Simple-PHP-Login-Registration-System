@@ -6,7 +6,7 @@
 - User Registration
 - User login
 - with hash, salt and pepper.
-- Password Strength Metter
+- Password Strength Meter
 
 ### How To Run
 Download and Install XAMPP:
